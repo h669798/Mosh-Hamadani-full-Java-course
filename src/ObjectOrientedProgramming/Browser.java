@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.elena;
+package ObjectOrientedProgramming;
 
 public class Browser {
     public void navigate(String address) {
